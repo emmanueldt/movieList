@@ -1,0 +1,18 @@
+#search-bar{
+  margin-bottom:20px;
+  display:inline-block;
+}
+#mode-btn{
+  float:right;
+  font-size: 25px;
+  cursor: pointer;
+}
+i.fa{
+  margin: 5px;
+}
+.info-btn{
+  float:right;
+}
+.list-group{
+  width:100vw
+}
